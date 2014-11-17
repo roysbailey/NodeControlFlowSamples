@@ -1,0 +1,11 @@
+{
+    "name": "application-name",
+    "description": "A comparison of some common async control-flow patterns, between roll your own, and the async package from npm",
+    "version": "0.0.1",
+    "author": "roysbailey",
+    "dependencies": {
+        "async": "*",
+        "mocha": "*",
+        "should": "*"
+    }
+}
